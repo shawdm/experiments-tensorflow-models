@@ -90,3 +90,8 @@ ENV/
 
 # PyCharm
 .idea/
+
+# DMS
+.DS_Store
+research/object_detection/protos
+research/object_detection/ssd*
